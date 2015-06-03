@@ -73,7 +73,7 @@ GENERAL INSTALLATION
 
     Any upgrade steps given in version-specific UPGRADING files should
     be run after the rest of the steps below; however, please read the
-    relevant documentation before beginning the upgrade, soas to be
+    relevant documentation before beginning the upgrade, so as to be
     aware of important changes.
 
     RT stores the arguments given to ./configure at the top of the
