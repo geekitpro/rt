@@ -216,6 +216,9 @@ GENERAL INSTALLATION
 
            perldoc /opt/rt4/bin/rt-mailgate
 
+11) Set up automatic backups for RT and its data as described in
+    the docs/backups.pod document.
+
 
 GETTING HELP
 ------------
