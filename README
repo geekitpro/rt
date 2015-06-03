@@ -159,7 +159,7 @@ GENERAL INSTALLATION
 
       You should back up your database before running this command.
       When you run it, you will be prompted for your previous version of
-      RT (such as 3.8.1) so that the appropriate set of database
+      RT (such as 4.0.23) so that the appropriate set of database
       upgrades can be applied.
 
       If 'make upgrade-database' completes without error, your upgrade
